@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel><title>EventCAD macOS Updates</title><link>https://github.com/LightzFreak/EventCAD-Downloads/releases</link><description>Signed EventCAD updates for Apple Silicon Macs.</description><language>de</language></channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EventCAD</title>
+        <item>
+            <title>0.27.2</title>
+            <pubDate>Tue, 06 Oct 2026 22:32:07 +0200</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.27.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/LightzFreak/EventCAD-Downloads/releases/download/v0.27.2+42/EventCAD-0.27.2+42-macOS-arm64.dmg" length="31460076" type="application/octet-stream" sparkle:edSignature="2DwMZdjMpKMKvqNy2EIYS+xXe9oeJ5sYtj4RXEAm09Hqm6h/eUSL+b0g4/aWxsKAkajBb5rDytRzIMnj1JuVCQ=="/>
+        </item>
+    </channel>
 </rss>
