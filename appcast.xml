@@ -3,28 +3,12 @@
     <channel>
         <title>EventCAD</title>
         <item>
-            <title>0.28.1</title>
-            <pubDate>Fri, 16 Oct 2026 00:19:00 +0200</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>0.28.1</sparkle:shortVersionString>
+            <title>0.28.2</title>
+            <pubDate>Sat, 17 Oct 2026 14:34:40 +0200</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.28.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LightzFreak/EventCAD-Downloads/releases/download/v0.28.1%2B46/EventCAD-0.28.1%2B46-macOS-arm64.dmg" length="31819865" type="application/octet-stream" sparkle:edSignature="XfnnTIZFL0Bh9d8d03vLYQkn4fCU+OOAEd11IdFzBd+Sj++5kFM3B5RipI+Gk2AJQEifePGK8GEdW9CYJf9BAQ=="/>
-        </item>
-        <item>
-            <title>0.28.0</title>
-            <pubDate>Thu, 15 Oct 2026 23:45:00 +0200</pubDate>
-            <sparkle:version>45</sparkle:version>
-            <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LightzFreak/EventCAD-Downloads/releases/download/v0.28.0%2B45/EventCAD-0.28.0%2B45-macOS-arm64.dmg" length="31801023" type="application/octet-stream" sparkle:edSignature="0r/afPEJxdRksrMiXc4LdooO4eBCXWzaeEs/Q/hf+q/GCTq8KQ68AlbxU6oUk371qOsJjMAE+b00WU10ZHKyAg=="/>
-        </item>
-        <item>
-            <title>0.27.4</title>
-            <pubDate>Wed, 07 Oct 2026 08:26:03 +0200</pubDate>
-            <sparkle:version>44</sparkle:version>
-            <sparkle:shortVersionString>0.27.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LightzFreak/EventCAD-Downloads/releases/download/v0.27.4+44/EventCAD-0.27.4+44-macOS-arm64.dmg" length="31642365" type="application/octet-stream" sparkle:edSignature="4NrzF0vsU1Da2MqCKeVfkFtwzXqUsfUcf9+WkdQ7BJOFDo8fTblx5u9QJwbBfy8ZtDzkUxz+AOtWfBbfw8jrBA=="/>
+            <enclosure url="https://github.com/LightzFreak/EventCAD-Downloads/releases/download/v0.28.2+49/EventCAD-0.28.2+49-macOS-arm64.dmg" length="31825897" type="application/octet-stream" sparkle:edSignature="tQGUhNL5iwwzVUswSLAV2vdxIW6TkAfBbO5CIa0NzyGAdQYsSSgewBVrTGMkUlDKlqe4jS7pW7CQOZ+7+UE2DQ=="/>
         </item>
     </channel>
 </rss>
