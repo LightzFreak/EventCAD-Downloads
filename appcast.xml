@@ -3,12 +3,12 @@
     <channel>
         <title>EventCAD</title>
         <item>
-            <title>0.28.2</title>
-            <pubDate>Sat, 17 Oct 2026 14:34:40 +0200</pubDate>
-            <sparkle:version>49</sparkle:version>
-            <sparkle:shortVersionString>0.28.2</sparkle:shortVersionString>
+            <title>0.28.3</title>
+            <pubDate>Sat, 17 Oct 2026 15:13:41 +0200</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>0.28.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/LightzFreak/EventCAD-Downloads/releases/download/v0.28.2+49/EventCAD-0.28.2+49-macOS-arm64.dmg" length="31825897" type="application/octet-stream" sparkle:edSignature="tQGUhNL5iwwzVUswSLAV2vdxIW6TkAfBbO5CIa0NzyGAdQYsSSgewBVrTGMkUlDKlqe4jS7pW7CQOZ+7+UE2DQ=="/>
+            <enclosure url="https://github.com/LightzFreak/EventCAD-Downloads/releases/download/v0.28.3+50/EventCAD-0.28.3+50-macOS-arm64.dmg" length="31961942" type="application/octet-stream" sparkle:edSignature="PHdBDXxBA6GGoObanRzS4A85sDPGqBwD1hIBvUA8H7j8be0YUaRcbfymjE5FcTqUb69A1OLEC9zuSnl460HECQ=="/>
         </item>
     </channel>
 </rss>
